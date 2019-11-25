@@ -1,0 +1,11 @@
+C:\Users\Mike\source\repos\LegendofLinq\LegendofLinq\bin\Debug\netcoreapp3.0\LegendofLinq.exe
+C:\Users\Mike\source\repos\LegendofLinq\LegendofLinq\obj\Debug\netcoreapp3.0\LegendofLinq.csprojAssemblyReference.cache
+C:\Users\Mike\source\repos\LegendofLinq\LegendofLinq\obj\Debug\netcoreapp3.0\LegendofLinq.AssemblyInfoInputs.cache
+C:\Users\Mike\source\repos\LegendofLinq\LegendofLinq\obj\Debug\netcoreapp3.0\LegendofLinq.AssemblyInfo.cs
+C:\Users\Mike\source\repos\LegendofLinq\LegendofLinq\bin\Debug\netcoreapp3.0\LegendofLinq.deps.json
+C:\Users\Mike\source\repos\LegendofLinq\LegendofLinq\bin\Debug\netcoreapp3.0\LegendofLinq.runtimeconfig.json
+C:\Users\Mike\source\repos\LegendofLinq\LegendofLinq\bin\Debug\netcoreapp3.0\LegendofLinq.runtimeconfig.dev.json
+C:\Users\Mike\source\repos\LegendofLinq\LegendofLinq\bin\Debug\netcoreapp3.0\LegendofLinq.dll
+C:\Users\Mike\source\repos\LegendofLinq\LegendofLinq\bin\Debug\netcoreapp3.0\LegendofLinq.pdb
+C:\Users\Mike\source\repos\LegendofLinq\LegendofLinq\obj\Debug\netcoreapp3.0\LegendofLinq.dll
+C:\Users\Mike\source\repos\LegendofLinq\LegendofLinq\obj\Debug\netcoreapp3.0\LegendofLinq.pdb
